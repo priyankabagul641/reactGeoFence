@@ -3,6 +3,7 @@
     "name": "reactGeoFence",
     "slug": "reactGeoFence",
     "version": "1.0.0",
+    "android.config.googleMaps.apiKey":"AIzaSyAm332fBuy8QoCC6ZFv7pizIqdmaT-jz30",
     "assetBundlePatterns": [
       "**/*"
     ]
